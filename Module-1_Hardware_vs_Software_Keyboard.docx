@@ -1,0 +1,52 @@
+TICKET TITLE:
+User reports keyboard not working properly
+
+CATEGORY:
+Hardware/Software
+
+PRIORITY:
+Medium
+
+ENVIRONMENT:
+Operating System: Windows 10
+Device Type: Laptop
+Network Type: Home Wi-Fi
+
+--------------------------------
+
+USER ISSUE:
+User reports that their keyboard is not functioning correctly and is unsure if the issue is hardware or software related.
+
+---------------------------------
+
+INITIAL CHECKS:
+- Confirmed keyboard connected to device
+- Asked when issue began
+- Confirmed no recent system changes
+
+--------------------------------
+
+TROUBLESHOOTING STEPS:
+1. Asked user to reconnect keyboard to USB port
+2. Tested keyboard using an alternative USB port
+3. Checked Device Manager to confirm keyboard was detected
+4. Verified no driver errors were present
+
+--------------------------------
+
+RESOLUTION:
+Issue determined to be related to temporary driver issue. Keyboard function restored after reconnecting device and restarting system.
+--------------------------------
+
+VERIFICATION:
+User confirmed keyboard was functioning normally after troubleshooting steps were completed.
+
+--------------------------------
+
+NOTES / PREVENTION (Optional):
+Advised user to ensure keyboard is securely connected and to report the issue if it recurs.
+
+--------------------------------
+
+TICKET STATUS:
+Resolved
